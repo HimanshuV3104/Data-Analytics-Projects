@@ -45,4 +45,4 @@ Volume Leader: High-income earners represent the largest share of the portfolio 
 Default Trends: 2018 saw a sharp 1.9% increase in default loans compared to the previous year.
 
 Documentation
-For all Documentation
+https://drive.google.com/drive/folders/1fxh0mdzjrn8ghnERjDWmmwk-a2zxrj0V?usp=drive_link
